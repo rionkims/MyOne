@@ -35,7 +35,8 @@
 | 400 | 400 | unsupported media type |
 
 
-
-## 4. 질의응답
+*질의응답*
 상단의 issue를 통해서 문의주시길 바랍니다.
 - https://github.com/rionkims/MyOne/issues
+
+* * *
