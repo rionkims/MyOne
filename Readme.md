@@ -19,7 +19,7 @@
 1. [이슈](https://github.com/rionkims/MyOne/issues) 선택
 2. 개인정보 수집 및 이용에 동의
 
-##### Error Table
+##### *Error Table
 
 | http status code | code |  comment |
 | ---------------- | ---- |  ------- |
@@ -35,8 +35,10 @@
 | 400 | 400 | unsupported media type |
 
 
-*질의응답*
+## *질의응답*
 상단의 issue를 통해서 문의주시길 바랍니다.
 - https://github.com/rionkims/MyOne/issues
 
 * * *
+
+***
